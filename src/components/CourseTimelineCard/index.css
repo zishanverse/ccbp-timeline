@@ -1,0 +1,35 @@
+.course-card {
+  padding: 10px;
+}
+.course-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.duration-card {
+  display: flex;
+  align-items: center;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+  list-style-type: none;
+}
+.tag {
+  margin-right: 5px;
+  color: #171f46;
+  font-weight: bold;
+  background-color: #868ca330;
+  padding: 3px;
+  border-radius: 5px;
+}
+course-title {
+  color: #171f46;
+}
+p {
+  font-family: 'Roboto';
+}
+h1 {
+  font-family: 'Roboto';
+}
